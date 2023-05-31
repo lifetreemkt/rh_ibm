@@ -1,2 +1,3 @@
 PANDAS CONSEGUE LER VARIOS TIPOS DE ARQUIVO >>> pd.read_csv
 
+iniciar projeto no django
